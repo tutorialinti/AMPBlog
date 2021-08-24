@@ -23,7 +23,6 @@ css:
       padding: 5px;
     }
 excerpt: "Ads Styles and Configuration"
-download: true
 ---
 
 {% include toc.md %}
