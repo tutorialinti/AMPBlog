@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/" rel="alternate" type="text/html" /><updated>2021-09-08T16:14:48+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml</id><title type="html">AMP Affiliately Jekyll Theme</title><subtitle>An AMP-ready Jekyll blog theme</subtitle><entry><title type="html">Plugins and Extensions</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/" rel="alternate" type="text/html" title="Plugins and Extensions" /><published>2021-09-08T12:00:00+08:00</published><updated>2021-09-08T12:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/">&lt;aside style=&quot;position: relative;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/" rel="alternate" type="text/html" /><updated>2021-09-28T15:43:49+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml</id><title type="html">AMP Affiliately Jekyll Theme</title><subtitle>An AMP-ready Jekyll blog theme</subtitle><entry><title type="html">Plugins and Extensions</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/" rel="alternate" type="text/html" title="Plugins and Extensions" /><published>2021-09-08T12:00:00+08:00</published><updated>2021-09-08T12:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/">&lt;aside style=&quot;position: relative;&quot;&gt;
     &lt;a href=&quot;#toc-skipped&quot; class=&quot;screen-reader-only&quot;&gt;Skip table of contents&lt;/a&gt;
 &lt;/aside&gt;
 
@@ -961,7 +961,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
       &lt;/amp-img&gt;&lt;/a&gt;&lt;/figure&gt;
 
 
-&lt;/section&gt;</content><author><name></name></author><category term="[&quot;feature&quot;]" /><category term="styles" /><category term="demo" /><summary type="html">The demo and test page of the Anchor Links for headings and the Link Modifier on various Markdown styles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/assets/images/processing_o128.png" /><media:content medium="image" url="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/assets/images/processing_o128.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Front Matter Guide</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/" rel="alternate" type="text/html" title="Front Matter Guide" /><published>2021-07-31T12:05:00+08:00</published><updated>2021-08-24T00:01:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/">&lt;aside style=&quot;position: relative;&quot;&gt;
+&lt;/section&gt;</content><author><name></name></author><category term="[&quot;feature&quot;]" /><category term="styles" /><category term="demo" /><summary type="html">The demo and test page of the Anchor Links for headings and the Link Modifier on various Markdown styles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/assets/images/processing_o128.png" /><media:content medium="image" url="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/assets/images/processing_o128.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Front Matter Guide</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/" rel="alternate" type="text/html" title="Front Matter Guide" /><published>2021-07-31T12:05:00+08:00</published><updated>2021-09-28T15:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/">&lt;aside style=&quot;position: relative;&quot;&gt;
     &lt;a href=&quot;#toc-skipped&quot; class=&quot;screen-reader-only&quot;&gt;Skip table of contents&lt;/a&gt;
 &lt;/aside&gt;
 
@@ -969,7 +969,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#general-front-matters-for-a-post&quot; id=&quot;markdown-toc-general-front-matters-for-a-post&quot;&gt;General Front Matters for A Post&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#set-featured-image&quot; id=&quot;markdown-toc-set-featured-image&quot;&gt;Set Featured Image&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#set-featured-image&quot; id=&quot;markdown-toc-set-featured-image&quot;&gt;Set Featured Image&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#hide-featured-image-on-a-pagepost&quot; id=&quot;markdown-toc-hide-featured-image-on-a-pagepost&quot;&gt;Hide Featured Image on a Page/Post&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#remove-box-shadow-from-featured-image&quot; id=&quot;markdown-toc-remove-box-shadow-from-featured-image&quot;&gt;Remove Box Shadow from Featured Image&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#featured-images-that-do-not-have-an-aspect-ratio-of-169&quot; id=&quot;markdown-toc-featured-images-that-do-not-have-an-aspect-ratio-of-169&quot;&gt;Featured Images That Do Not Have an Aspect Ratio of 16:9&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#show-thumbnail-image-in-sidebar-widgets&quot; id=&quot;markdown-toc-show-thumbnail-image-in-sidebar-widgets&quot;&gt;Show Thumbnail Image in Sidebar Widgets&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#pin-featured-posts&quot; id=&quot;markdown-toc-pin-featured-posts&quot;&gt;Pin Featured Posts&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#add-custom-css-to-html-head-section&quot; id=&quot;markdown-toc-add-custom-css-to-html-head-section&quot;&gt;Add Custom CSS to HTML &amp;lt;head&amp;gt; Section&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#add-custom-codes-to-html-head-section&quot; id=&quot;markdown-toc-add-custom-codes-to-html-head-section&quot;&gt;Add Custom Codes to HTML &amp;lt;head&amp;gt; Section&lt;/a&gt;&lt;/li&gt;
@@ -1106,6 +1112,49 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The front matter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; also inherits the properties from &lt;a href=&quot;https://github.com/jekyll/jekyll-feed#optional-front-matter&quot;&gt;Jekyll Feed&lt;/a&gt; and &lt;a href=&quot;https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#customizing-image-output&quot;&gt;Jekyll SEO Tag&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;hide-featured-image-on-a-pagepost&quot;&gt;Hide Featured Image on a Page/Post&lt;/h3&gt;
+
+&lt;p&gt;If you do not want to render the featured image on a post, append a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hide&lt;/code&gt; option to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; variable, &lt;em&gt;e.g.&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/images/cover-image.png&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;hide&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;remove-box-shadow-from-featured-image&quot;&gt;Remove Box Shadow from Featured Image&lt;/h3&gt;
+
+&lt;p&gt;If you want to remove the shadow of the featured image on the post page, append the following class to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; variable, &lt;em&gt;e.g.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/images/cover-image.png&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;shadow-none&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;featured-images-that-do-not-have-an-aspect-ratio-of-169&quot;&gt;Featured Images That Do Not Have an Aspect Ratio of 16:9&lt;/h3&gt;
+
+&lt;p&gt;If the image is not at 16:9 aspect ratio, you need to define its width and height under the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; variable, &lt;em&gt;e.g.&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/images/cover-image.png&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;640&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;480&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;show-thumbnail-image-in-sidebar-widgets&quot;&gt;Show Thumbnail Image in Sidebar Widgets&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make a copy of each featured image file in the same folder.&lt;/li&gt;
+  &lt;li&gt;Rename the copies to have a filename like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;filename&amp;gt;.thumb.&amp;lt;ext&amp;gt;&lt;/code&gt;, &lt;em&gt;e.g.&lt;/em&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cover-image.thumb.png&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Rescale it to a height of &lt;strong&gt;150px&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By default, the thumbnail of featured images is cropped at the center inside the cards of the list/grid of Featured Posts. A new variable for the thumbnail positioning was added to the theme on 2020-10-07. You can now change the image position to the &lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; by appending a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fit&lt;/code&gt; option to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; variable, &lt;em&gt;e.g.&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/images/cover-image.png&lt;/span&gt;
+   &lt;span class=&quot;na&quot;&gt;fit&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;left&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;hr /&gt;
 
@@ -1451,8 +1500,8 @@ This is highly undesirable because it will give a very bad user experience.&lt;/
 
 &lt;p&gt;To make it a little nicer, a small icon is set as the background image of each &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;amp-ad&amp;gt;&lt;/code&gt; element as shown below.&lt;/p&gt;
 
-&lt;figure&gt;&lt;amp-img width=&quot;751&quot; height=&quot;285&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/ad-placement-background-image.webp&quot; alt=&quot;Icon displays at the Ad placementAds Settings&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;
-        &lt;amp-img fallback=&quot;&quot; width=&quot;751&quot; height=&quot;285&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/ad-placement-background-image.png&quot; alt=&quot;Icon displays at the Ad placementAds Settings&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;&lt;/amp-img&gt;
+&lt;figure&gt;&lt;amp-img width=&quot;751&quot; height=&quot;285&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/ad-placement-background-image.webp&quot; alt=&quot;Icon displays at the Ad placement&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;
+        &lt;amp-img fallback=&quot;&quot; width=&quot;751&quot; height=&quot;285&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/ad-placement-background-image.png&quot; alt=&quot;Icon displays at the Ad placement&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;&lt;/amp-img&gt;
       &lt;/amp-img&gt;&lt;/figure&gt;
 
 &lt;p&gt;It is styled with the following CSS code:&lt;/p&gt;
@@ -1706,8 +1755,8 @@ end
 &lt;/ul&gt;
 
 &lt;p&gt;Sample:&lt;/p&gt;
-&lt;figure&gt;&lt;amp-img width=&quot;1024&quot; height=&quot;683&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/lucas-vasques-9vnACvX2748-unsplash_1024x683.webp&quot; alt=&quot;Photo captured during office hours of a company in Brazil.Media&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;
-        &lt;amp-img fallback=&quot;&quot; width=&quot;1024&quot; height=&quot;683&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/lucas-vasques-9vnACvX2748-unsplash_1024x683.jpg&quot; alt=&quot;Photo captured during office hours of a company in Brazil.Media&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;&lt;/amp-img&gt;
+&lt;figure&gt;&lt;amp-img width=&quot;1024&quot; height=&quot;683&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/lucas-vasques-9vnACvX2748-unsplash_1024x683.webp&quot; alt=&quot;Photo captured during office hours of a company in Brazil.&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;
+        &lt;amp-img fallback=&quot;&quot; width=&quot;1024&quot; height=&quot;683&quot; layout=&quot;intrinsic&quot; src=&quot;/amp-affiliately-jekyll-theme/assets/images/lucas-vasques-9vnACvX2748-unsplash_1024x683.jpg&quot; alt=&quot;Photo captured during office hours of a company in Brazil.&quot; on=&quot;tap:lightbox1&quot; role=&quot;button&quot; tabindex=&quot;0&quot; aria-label=&quot;lightbox&quot;&gt;&lt;/amp-img&gt;
       &lt;/amp-img&gt;&lt;/figure&gt;
 &lt;p&gt;Photo captured during office hours of a company in Brazil.
 &lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@luvqs?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Lucas Vasques&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
