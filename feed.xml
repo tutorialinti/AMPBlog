@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/" rel="alternate" type="text/html" /><updated>2021-10-10T23:42:56+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml</id><title type="html">AMP Affiliately Jekyll Theme</title><subtitle>An AMP-ready Jekyll blog theme</subtitle><entry><title type="html">Plugins and Extensions</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/" rel="alternate" type="text/html" title="Plugins and Extensions" /><published>2021-09-08T12:00:00+08:00</published><updated>2021-09-08T12:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/">&lt;aside style=&quot;position: relative;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/" rel="alternate" type="text/html" /><updated>2021-10-11T00:36:17+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml</id><title type="html">AMP Affiliately Jekyll Theme</title><subtitle>An AMP-ready Jekyll blog theme</subtitle><entry><title type="html">Plugins and Extensions</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/" rel="alternate" type="text/html" title="Plugins and Extensions" /><published>2021-09-08T12:00:00+08:00</published><updated>2021-09-08T12:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/">&lt;aside style=&quot;position: relative;&quot;&gt;
     &lt;a href=&quot;#toc-skipped&quot; class=&quot;screen-reader-only&quot;&gt;Skip table of contents&lt;/a&gt;
 &lt;/aside&gt;
 
@@ -998,6 +998,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#on-page-seo&quot; id=&quot;markdown-toc-on-page-seo&quot;&gt;On-Page SEO&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#set-url-redirects&quot; id=&quot;markdown-toc-set-url-redirects&quot;&gt;Set URL Redirects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exclude-from-sitemap&quot; id=&quot;markdown-toc-exclude-from-sitemap&quot;&gt;Exclude from Sitemap&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#see-also-&quot; id=&quot;markdown-toc-see-also-&quot;&gt;See Also 📚&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1360,6 +1361,17 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;/table&gt;
 
 &lt;p&gt;💡 Learn more about the usage from the &lt;a href=&quot;https://github.com/jekyll/jekyll-redirect-from&quot;&gt;Jekyll Redirect From&lt;/a&gt; documentation.&lt;/p&gt;
+
+&lt;h2 id=&quot;exclude-from-sitemap&quot;&gt;Exclude from Sitemap&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you would like to exclude specific pages/posts from the sitemap set the sitemap flag to false in the front matter for the page/post.&lt;/p&gt;
+
+  &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;na&quot;&gt;sitemap&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;💡 Learn more from the &lt;a href=&quot;https://github.com/jekyll/jekyll-sitemap#exclusions&quot;&gt;Jekyll Sitemap Generator Plugin&lt;/a&gt; documentation.&lt;/p&gt;
 
 &lt;hr /&gt;
 
