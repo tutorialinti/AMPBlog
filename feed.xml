@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/" rel="alternate" type="text/html" /><updated>2023-01-14T00:02:36+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml</id><title type="html">AMP Affiliately Jekyll Theme</title><subtitle>An AMP-ready Jekyll blog theme</subtitle><entry><title type="html">Plugins and Extensions</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/" rel="alternate" type="text/html" title="Plugins and Extensions" /><published>2021-09-08T12:00:00+08:00</published><updated>2021-09-08T12:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/">&lt;aside style=&quot;position: relative;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/" rel="alternate" type="text/html" /><updated>2023-01-14T00:37:38+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/feed.xml</id><title type="html">AMP Affiliately Jekyll Theme</title><subtitle>An AMP-ready Jekyll blog theme</subtitle><entry><title type="html">Plugins and Extensions</title><link href="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/" rel="alternate" type="text/html" title="Plugins and Extensions" /><published>2021-09-08T12:00:00+08:00</published><updated>2021-09-08T12:00:00+08:00</updated><id>https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins</id><content type="html" xml:base="https://chriskyfung.github.io/amp-affiliately-jekyll-theme/plugins/">&lt;aside style=&quot;position: relative;&quot;&gt;
     &lt;a href=&quot;#toc-skipped&quot; class=&quot;screen-reader-only&quot;&gt;Skip table of contents&lt;/a&gt;
 &lt;/aside&gt;
 
@@ -1937,35 +1937,38 @@ end
       &quot;triggers&quot;: {
         &quot;videoPlay&quot;: {
           &quot;on&quot;: &quot;video-play&quot;,
-          &quot;request&quot;: &quot;event&quot;,
+          &quot;request&quot;: &quot;ga4Event&quot;,
           &quot;selector&quot;: &quot;amp-youtube[data-videoid='8jumRGDgxiY']&quot;,
           &quot;vars&quot;: {
-            &quot;event_category&quot;: &quot;AMP YouTube player (client-side)&quot;,
-            &quot;event_name&quot;: &quot;Video Started&quot;,
-            &quot;event_label&quot;: &quot;youtu.be/8jumRGDgxiY&quot;,
-            &quot;method&quot;: &quot;Google&quot;
+            &quot;ga4_event_name&quot;: &quot;video_played&quot;
+          },
+          &quot;extraUrlParams&quot;: {
+            &quot;event__str_video_title&quot;: &quot;${id}&quot;,
+            &quot;event__num_video_duration&quot;: &quot;${duration}&quot;
           }
         },
         &quot;videoPause&quot;: {
           &quot;on&quot;: &quot;video-pause&quot;,
-          &quot;request&quot;: &quot;event&quot;,
+          &quot;request&quot;: &quot;ga4Event&quot;,
           &quot;selector&quot;: &quot;amp-youtube[data-videoid='8jumRGDgxiY']&quot;,
           &quot;vars&quot;: {
-            &quot;event_category&quot;: &quot;AMP YouTube player (client-side)&quot;,
-            &quot;event_name&quot;: &quot;Video Paused&quot;,
-            &quot;event_label&quot;: &quot;youtu.be/8jumRGDgxiY&quot;,
-            &quot;method&quot;: &quot;Google&quot;
+            &quot;event_name&quot;: &quot;video_paused&quot;
+          },
+          &quot;extraUrlParams&quot;: {
+            &quot;event__str_video_title&quot;: &quot;${id}&quot;,
+            &quot;event__num_video_duration&quot;: &quot;${duration}&quot;
           }
         },
         &quot;videoEnded&quot;: {
           &quot;on&quot;: &quot;video-ended&quot;,
-          &quot;request&quot;: &quot;event&quot;,
+          &quot;request&quot;: &quot;ga4Event&quot;,
           &quot;selector&quot;: &quot;amp-youtube[data-videoid='8jumRGDgxiY']&quot;,
           &quot;vars&quot;: {
-            &quot;event_name&quot;: &quot;Video Ended&quot;,
-            &quot;event_category&quot;: &quot;AMP YouTube player (client-side)&quot;,
-            &quot;event_label&quot;: &quot;youtu.be/8jumRGDgxiY&quot;,
-            &quot;method&quot;: &quot;Google&quot;
+            &quot;event_name&quot;: &quot;video_ended&quot;
+          },
+          &quot;extraUrlParams&quot;: {
+            &quot;event__str_video_title&quot;: &quot;${id}&quot;,
+            &quot;event__num_video_duration&quot;: &quot;${duration}&quot;
           }
         }
       }
