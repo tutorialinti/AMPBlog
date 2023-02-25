@@ -1,8 +1,8 @@
 # Site
-name: "AMP Affiliately Jekyll Theme"
-title: "AMP Affiliately Jekyll Theme"
-description: "An AMP-ready Jekyll blog theme"
-url: https://chriskyfung.github.io
+name: "AMP Jekyll Theme"
+title: "AMP Jekyll Theme"
+description: "AMP-ready Jekyll blog theme"
+url: https://github.com/tutorialinti/AMPBlog
 baseurl: '/amp-affiliately-jekyll-theme'
 favicon: 'assets/images/favicon.png'
 logo: 'assets/images/logo-plainSVG.svg'
@@ -11,7 +11,7 @@ paginate: 6
 timezone: 'Asia/Hong_Kong'
 
 # Set <USERNAME>/<PROJECT> to display the button to the project
-repository: chriskyfung/amp-affiliately-jekyll-theme
+repository: https://github.com/tutorialinti/AMPBlog
 
 # Navigation features
 nav:
@@ -83,7 +83,7 @@ buymeacoffee: chriskyfung
 # Copyright Start Year
 copyright: 
   owner: Chris KY FUNG
-  link: https://chriskyfung.github.io/
+  link: https://github.com/tutorialinti/AMPBlog
 
 # Plugins
 plugins: 
